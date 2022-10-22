@@ -8,13 +8,20 @@ Logistica/ventas basados en blockchain
 Integrantes:
 
 Humberto Melendez xxtochoxx@gmail.com
+
 Ebed Guerra
+
 Evelyn Sharon egreyes8902@gmail.com
+
 Bryan Aguilar
-Diana Noemi Castañeda
+
+Diana Noemi Castañeda dianacastanedaalipio@gmail.com
+
 Julio Cruz julio.cruz@eb-ms.net
+
 Nahely Xiomara Najarro nahely12345@gmail.com
-Tans Ortega
+
+Tans Ortega tansortega@gmail.com 
 
 
 
