@@ -1,4 +1,4 @@
-# hackaton_criptonianos
+# hackaton_alxiri
 Proyecto Hackaton 2022 - Universidad Continental
 
 
