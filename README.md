@@ -1,4 +1,4 @@
-# hackaton_criptonianos
+# hackaton_alxiri
 Proyecto Hackaton 2022 - Universidad Continental
 
 
@@ -9,11 +9,11 @@ Integrantes:
 
 Humberto Melendez xxtochoxx@gmail.com
 
-Ebed Guerra
+Ebed Guerra Ebedguerra@gmail.com
 
 Evelyn Sharon egreyes8902@gmail.com
 
-Bryan Aguilar
+Bryan Aguilar Bryanaguilar222@gmail.com
 
 Diana Noemi Castañeda dianacastanedaalipio@gmail.com
 
